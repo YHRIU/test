@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Pn4I_wdAW4NaqvzGZhNDcrrYkYWQK9YdQQ&s);
+
+    
+}
+#a {
+    color:rgb(231, 231, 231);
+    font: size 300px;
+    margin: 100px 15px;
+    border-bottom-width: 5px;
+    border-bottom-style: dotted;
+    opacity: 0.5;
+#a {
+    color: black;
+    transition: 0.4s;
+   }
+       
+       
+}
+span{
+    color: brown;
+}
+
